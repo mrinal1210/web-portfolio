@@ -23,15 +23,15 @@ run the index.html file from the directory
 <!-- How is the repo organized? -->
 ```
 ├── dist                  # Contains the code for the portfolio resume
-    ├── css               # Contains the responsive css for the website
-    ├── img               # Contains the images for the website
-    ├── js                # Contains the javascript code for the website
-    ├── about.html        # About page of the website
-    ├── contact.html      # Contact page of the website
-    ├── index.html        # Main page of the website
-    ├── work.html         # Work page of the website
-├── scss                  # Contains the scss for the website
-├── package.json          # Contains the package that are used in the website for the scss compiler
+    ├── css               # Contains the responsive css for the portfolio resume
+    ├── img               # Contains the images for the portfolio resume
+    ├── js                # Contains the javascript code for the portfolio resume
+    ├── about.html        # About page of the portfolio resume
+    ├── contact.html      # Contact page of the portfolio resume
+    ├── index.html        # Main page of the portfolio resume
+    ├── work.html         # Work page of the portfolio resume
+├── scss                  # Contains the scss for the portfolio resume
+├── package.json          # Contains the package that are used in the portfolio resume for the scss compiler
 ```
 
 ## Deployment
